@@ -650,7 +650,6 @@ img{
           height: inherit;
           grid-template-rows:0.2fr 0.3fr 0.1fr;
           gap: 5px;
-          background-color: aqua;
       }
       
       .menprix1{
