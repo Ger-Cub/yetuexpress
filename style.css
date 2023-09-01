@@ -302,7 +302,7 @@ img{
 }
 .accueil__img{
     filter: blur(3px);
-    background-image: url(/supermarket-sweeps-tease.webp);
+    background-image: url(./supermarket-sweeps-tease.webp);
     background-size: cover;
     background-position: center;
     position: absolute;
